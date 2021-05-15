@@ -12,4 +12,10 @@ Certains des types les plus courants sont:
 * Scatter Plot
 * Regression Plot
 
+## Bar Chart
+![image1.png](Images/image1.png)
+
+## Pie Chart
+![image2.png](Images/Image2.png)
+
 Vous trouverez des tutoriels sur les types de format graphique pour la visualisation des données [ici](https://blog.sinatechnologie.com/graphique-a-barres)
