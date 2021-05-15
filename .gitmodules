@@ -1,3 +1,6 @@
 [submodule "Pie Chart"]
 	path = Pie Chart
 	url = https://github.com/PhilippeMitch/Pie-Chart.git
+[submodule "Bar Chart"]
+	path = Bar Chart
+	url = https://github.com/PhilippeMitch/Bar-Chart.git
