@@ -1,0 +1,3 @@
+[submodule "Pie Chart"]
+	path = Pie Chart
+	url = https://github.com/PhilippeMitch/Pie-Chart.git
